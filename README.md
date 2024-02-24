@@ -1,7 +1,7 @@
 Java Programming I MOOC Exercises (Part 1-37)
 
 Description:
-My solutions to exercises from Part 1-37 of the University of Helsinki's Java Programming I MOOC. This repository showcases my learning progress and problem-solving skills in foundational Java concepts.
+My solutions to exercises from Part 1-37 of the University of Helsinki's Java Programming I MOOC (https://java-programming.mooc.fi/). This repository showcases my learning progress and problem-solving skills in foundational Java concepts.
 
 Features:
 
